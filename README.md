@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
     <img align="right" alt="Galo" height="150" style="border-radius:50px;" src="https://especiais.g1.globo.com/fantastico/pegue-aqui-o-seu-gif-natalino/cavalinho-do-Atletico-mg.gif?_ga=2.97993631.1048049450.1636139236-1190723983.1630682849">
 </div>
-</div>
+
 
 </div>
   
