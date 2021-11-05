@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarianaGAlmeida
 - 👀 I’m interested in analytics.
-- 🌱 I’m currently learning python and VBA. 
+- 🌱 I’m currently learning Python, VBA, statistics. 
 - 💞️ I’m looking to collaborate on (brazilian) energy sector data analysis. 
 - 📫 How to reach me: marianamgda@gmail.com
 
