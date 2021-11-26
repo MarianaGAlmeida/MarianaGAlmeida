@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mariana Almeida
-- 👀 I’m interested in analytics and (brazilian) energy sector. 
+- 👀 I’m interested in data analytics and (brazilian) energy sector. 
 - 🌱 I’m currently learning Python, VBA, statistics/machine learning. 
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me: marianamgda@gmail.com
